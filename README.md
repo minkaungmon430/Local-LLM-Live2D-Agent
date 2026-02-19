@@ -1,5 +1,6 @@
 # 🐾 Mochi: Autonomous Local AI Desktop Agent
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An asynchronous, event-driven AI desktop assistant powered by local LLMs and Live2D WebSocket integration. 
 
 Unlike standard text-based chatbots, this project bridges a local language model (Llama 3.2) with a graphical Live2D frontend (VTube Studio) to create an autonomous, emotive, and system-aware virtual companion.
